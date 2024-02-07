@@ -1,0 +1,1 @@
+# Disease-Prediction-Using-SVC-Naive-Bayes-and-Random-Forest
