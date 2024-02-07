@@ -3,7 +3,7 @@
 
 # Disease Prediction Machine Learning Model
 
-This notebook implements a robust machine-learning model that efficiently predicts human diseases based on symptoms.
+This python project implements a robust machine-learning model that efficiently predicts human diseases based on symptoms.
 
 ## Table of Contents
 - [Deployment](#deployment)
