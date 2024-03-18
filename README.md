@@ -3,7 +3,7 @@
 
 # Disease Prediction Machine Learning Model
 
-This notebook implements a robust machine-learning model that efficiently predicts human diseases based on symptoms.
+This python project implements a robust machine-learning model that efficiently predicts human diseases based on symptoms.
 
 ## Table of Contents
 - [Deployment](#deployment)
@@ -15,7 +15,7 @@ This notebook implements a robust machine-learning model that efficiently predic
 The model is deployed using Streamlit and accessible at [this link](https://codingsneha-disease-prediction-ml.streamlit.app/).
 
 ## Introduction
-The goal of this project is to develop a machine learning model capable of accurately predicting diseases based on the symptoms exhibited by patients. The model utilizes a dataset from Kaggle containing information on various symptoms and corresponding disease prognoses.
+The goal of this project is to develop a machine learning model capable of accurately predicting diseases based on the symptoms exhibited by patients. The model utilizes a [dataset](https://www.kaggle.com/kaushil268/disease-prediction-using-machine-learning/) from Kaggle containing information on various symptoms and corresponding disease prognoses.
 
 ## Approach
 - **Gathering the Data:** Utilized a dataset from Kaggle consisting of two CSV files for training and testing, containing 133 columns including symptoms and disease prognoses.
